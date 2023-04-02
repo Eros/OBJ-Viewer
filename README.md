@@ -2,6 +2,8 @@
 
 Just a small util for displaying a 3D Obj file, the contents of it and a small content editor.
 
+![image info](./public/display.png)
+
 # Setup
 
 `npm init`
